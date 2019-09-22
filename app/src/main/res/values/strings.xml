@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ExoPlayer</string>
+    <string name="start_play">start play</string>
+    <string name="pause_play">pause play</string>
+    <string name="resume_play">resume play</string>
+    <string name="stop_play"> stop play</string>
+    <string name="play_speed">play speed :</string>
+    <string name="play_pitch">play pitch</string>
 </resources>
